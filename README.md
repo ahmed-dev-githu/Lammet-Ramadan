@@ -169,8 +169,8 @@ fb_groups
 ### 1. Clone the Repository
 
 ```bash
-[git clone https://github.com/your-username/lammet-ramadan.git
-](https://github.com/ahmed-dev-githu/Lammet-Ramadan.git)```
+git clone https://github.com/ahmed-dev-githu/Lammet-Ramadan.git
+```
 
 ### 2. Configure Firebase
 
